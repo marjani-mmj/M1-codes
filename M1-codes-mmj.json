@@ -1,1 +1,9 @@
-
+{
+  "allowed_hardware_codes": [
+    "M1-4A9B2C8D1E5F7G9H",
+    "M1-X7K9P2M4Q8R5T1V3",
+    "M1-Z3N6J8H0L2B4D5F7"
+  ],
+  "version": "M1",
+  "description": "لیست کدهای سخت‌افزاری مجاز برای فعال‌سازی دائمی نرم‌افزار PDF Editor نسخه M1"
+}
